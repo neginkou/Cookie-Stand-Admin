@@ -1,6 +1,6 @@
-# LAB - Class 37
+# LAB - Class 37-38
 
-## Project: Leveling up Front End with React, Next.js & TailwindCSS
+## Project: Leveling up Front End with React, Next.js & TailwindCSS - Cookie Stand Admin Version 2
 
 ### Author: Negin Koushkakinejad
 
